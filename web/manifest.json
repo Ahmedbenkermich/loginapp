@@ -1,6 +1,6 @@
 {
-    "name": "loginapp",
-    "short_name": "loginapp",
+    "name": "LoginAPP",
+    "short_name": "LoginAPP",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
